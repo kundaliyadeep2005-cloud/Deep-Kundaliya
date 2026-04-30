@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9933,25:FF7700,50:FFFFFF,75:138808,100:0A4F1E&height=260&section=header&text=Deep%20Kundaliya&fontSize=70&fontColor=1a1a1a&fontAlignY=42&desc=Web%20Developer%20%7C%20B.Tech%20CE%20%40%20RKU%20%7C%20Aspiring%20HR%20%26%20BDE%20Professional&descSize=18&descAlignY=65&descColor=333333&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FF9933,25:FF7700,50:FFFFFF,75:138808,100:0A4F1E&amp;height=260&amp;section=header&amp;text=Deep%20Kundaliya&amp;fontSize=70&amp;fontColor=1a1a1a&amp;fontAlignY=42&amp;desc=Web%20Developer%20%7C%20B.Tech%20CE%20%40%20RKU%20%7C%20Aspiring%20HR%20%26%20BDE%20Professional&amp;descSize=18&amp;descAlignY=65&amp;descColor=333333&amp;animation=fadeIn" />
 
 </div>
 
@@ -15,7 +15,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF9933&center=true&vCenter=true&width=700&lines=Hey+There!+I'm+Deep+Kundaliya+%F0%9F%91%8B;4th+Year+CE+Student+%40+RK+University+%F0%9F%8E%93;PHP+%26+Full-Stack+Web+Developer+%F0%9F%92%BB;Built+Jan-Mat+Bharat+Voting+Platform+%F0%9F%97%B3%EF%B8%8F;Khel+Mahakumbh+Tug+of+War+Champion+%F0%9F%8F%86;Proudly+from+Rajkot%2C+Gujarat%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=22&amp;pause=1000&amp;color=FF9933&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Hey+There!+I'm+Deep+Kundaliya+%F0%9F%91%8B;4th+Year+CE+Student+%40+RK+University+%F0%9F%8E%93;PHP+%26+Full-Stack+Web+Developer+%F0%9F%92%BB;Built+Jan-Mat+Bharat+Voting+Platform+%F0%9F%97%B3%EF%B8%8F;Khel+Mahakumbh+Tug+of+War+Champion+%F0%9F%8F%86;Proudly+from+Rajkot%2C+Gujarat%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -65,19 +65,19 @@ const deep = {
 <div align="center">
 
 <a href="mailto:kundaliyadeep2005@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-kundaliyadeep2005-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-kundaliyadeep2005-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/deep-kundaliya-aa546a2b8">
-  <img src="https://img.shields.io/badge/LinkedIn-Deep_Kundaliya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Deep_Kundaliya-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
 </a>
 <a href="https://instagram.com/deep._.2906">
-  <img src="https://img.shields.io/badge/Instagram-deep._.2906-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-deep._.2906-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white"/>
 </a>
 <a href="https://wa.me/9228396606">
-  <img src="https://img.shields.io/badge/WhatsApp-+91_9228396606-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WhatsApp-+91_9228396606-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white"/>
 </a>
 <a href="https://github.com/kundaliyadeep2005-cloud">
-  <img src="https://img.shields.io/badge/GitHub-kundaliyadeep2005--cloud-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-kundaliyadeep2005--cloud-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
 </a>
 
 </div>
@@ -88,7 +88,7 @@ const deep = {
 <!--                     TECH STACK                            -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"> &nbsp;Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="35"> &nbsp;Tech Stack
 
 <div align="center">
 
@@ -143,25 +143,25 @@ const deep = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundaliyadeep2005-cloud&layout=compact&theme=solarized-light&title_color=FF9933&border_color=FF9933&text_color=222222&border_radius=15" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundaliyadeep2005-cloud&amp;layout=compact&amp;theme=solarized-light&amp;title_color=FF9933&amp;border_color=FF9933&amp;text_color=222222&amp;border_radius=15" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kundaliyadeep2005-cloud&theme=solarized-light&ring=FF9933&fire=138808&currStreakLabel=FF9933&border=FF9933&border_radius=15" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kundaliyadeep2005-cloud&amp;theme=solarized-light&amp;ring=FF9933&amp;fire=138808&amp;currStreakLabel=FF9933&amp;border=FF9933&amp;border_radius=15" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kundaliyadeep2005-cloud&bg_color=fffbe7&color=FF9933&line=138808&point=FF6600&area=true&hide_border=false&border_color=FF9933&radius=12&title_color=FF9933" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kundaliyadeep2005-cloud&amp;bg_color=fffbe7&amp;color=FF9933&amp;line=138808&amp;point=FF6600&amp;area=true&amp;hide_border=false&amp;border_color=FF9933&amp;radius=12&amp;title_color=FF9933" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kundaliyadeep2005-cloud&theme=flat&no-frame=false&no-bg=true&margin-w=8&column=6&title_color=FF9933" />
+<img src="https://github-profile-trophy.vercel.app/?username=kundaliyadeep2005-cloud&amp;theme=flat&amp;no-frame=false&amp;no-bg=true&amp;margin-w=8&amp;column=6&amp;title_color=FF9933" />
 
 </div>
 
@@ -247,7 +247,7 @@ const deep = {
 
 ## 💬 Personal Motto
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=light" />
 
 > *"Technology is my toolkit, people are my passion — and I bring both to everything I do."* 🇮🇳
 >
@@ -285,9 +285,9 @@ const deep = {
 
 ### 🙏 Thanks for Visiting My Profile!
 
-<a href="mailto:kundaliyadeep2005@gmail.com"><img src="https://img.shields.io/badge/Let's_Collaborate!-FF9933?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:kundaliyadeep2005@gmail.com"><img src="https://img.shields.io/badge/Let's_Collaborate!-FF9933?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:138808,40:3CB371,60:FFFFFF,80:FF8C00,100:FF9933&height=140&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:138808,40:3CB371,60:FFFFFF,80:FF8C00,100:FF9933&amp;height=140&amp;section=footer&amp;animation=fadeIn"/>
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=kundaliyadeep2005-cloud&color=FF9933&style=flat-square)
 &nbsp;
