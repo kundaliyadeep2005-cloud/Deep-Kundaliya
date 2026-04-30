@@ -174,8 +174,8 @@ const deep = {
 |:---:|:---|:---|
 | 2025 – 2028 | **RK University, Rajkot** | B.Tech Computer Engineering (D2D) — 4th Year, 2nd Semester |
 | 2022 – 2025 | **Diploma in Computer Engineering** | 6th Sem — TravelGo 🌐 &nbsp;•&nbsp; 4th Sem — Rudra Resort 🏨 |
-| – | **SGIS Morbi Gurukul** | Secondary Education — Std 8th to 10th |
-| – | **TCDAVPS Mithapur** | Primary Education — Std 1st to 7th |
+| 2019 - 2022 | **SGIS Morbi Gurukul** | Secondary Education — Std 8th to 10th |
+| 2012 - 2019 | **TCDAVPS Mithapur** | Primary Education — Std 1st to 7th |
 
 </div>
 
