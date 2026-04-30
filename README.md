@@ -20,8 +20,8 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kundaliyadeep2005-cloud&color=FF9933&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/kundaliyadeep2005-cloud?label=Followers&style=for-the-badge&color=138808&logo=github)](https://github.com/kundaliyadeep2005-cloud)
+![Profile Views](https://komarev.com/ghpvc/?username=kundaliyadeep2005-cloud&amp;color=FF9933&amp;style=for-the-badge&amp;label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/kundaliyadeep2005-cloud?label=Followers&amp;style=for-the-badge&amp;color=138808&amp;logo=github)](https://github.com/kundaliyadeep2005-cloud)
 
 </div>
 
@@ -93,25 +93,25 @@ const deep = {
 <div align="center">
 
 ### 🌐 Languages
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&amp;logo=c&amp;logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white)
 
-### 🚀 Frameworks & Libraries
-![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Face-API.js](https://img.shields.io/badge/Face--API.js-FF4757?style=for-the-badge&logo=javascript&logoColor=white)
+### 🚀 Frameworks &amp; Libraries
+![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&amp;logo=jquery&amp;logoColor=white)
+![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white)
+![Face-API.js](https://img.shields.io/badge/Face--API.js-FF4757?style=for-the-badge&amp;logo=javascript&amp;logoColor=white)
 
-### 🗄️ Database & DevTools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+### 🗄️ Database &amp; DevTools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&amp;logo=xampp&amp;logoColor=white)
 
 </div>
 
@@ -127,9 +127,9 @@ const deep = {
 
 | 🔖 Project | 📄 Description | 💻 Stack | ⭐ Stars |
 |:---|:---|:---:|:---:|
-| 🗳️ **[Jan-Mat Bharat](https://github.com/kundaliyadeep2005-cloud/jan-mat-bharat)** | Secure biometric online voting platform with Face-API.js, 128D face encoding & Indian tricolor UI | PHP • MySQL • Face-API.js • Bootstrap 5 | ⭐ 9 |
-| ✈️ **[TravelGo](https://github.com/kundaliyadeep2005-cloud/TravelGo)** | Complete travel booking & management web application | PHP • MySQL • Bootstrap | ⭐ 8 |
-| 🏨 **[Rudra Resort](https://github.com/kundaliyadeep2005-cloud/Rudra-resort)** | Full-featured hotel & resort management system | PHP • MySQL | ⭐ 8 |
+| 🗳️ **[Jan-Mat Bharat](https://github.com/kundaliyadeep2005-cloud/jan-mat-bharat)** | Secure biometric online voting platform with Face-API.js, 128D face encoding &amp; Indian tricolor UI | PHP • MySQL • Face-API.js • Bootstrap 5 | ⭐ 9 |
+| ✈️ **[TravelGo](https://github.com/kundaliyadeep2005-cloud/TravelGo)** | Complete travel booking &amp; management web application | PHP • MySQL • Bootstrap | ⭐ 8 |
+| 🏨 **[Rudra Resort](https://github.com/kundaliyadeep2005-cloud/Rudra-resort)** | Full-featured hotel &amp; resort management system | PHP • MySQL | ⭐ 8 |
 
 </div>
 
@@ -187,10 +187,10 @@ const deep = {
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--               ACHIEVEMENTS & INVOLVEMENT                  -->
+<!--               ACHIEVEMENTS &amp; INVOLVEMENT                  -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## 🏅 Achievements & Involvement
+## 🏅 Achievements &amp; Involvement
 
 <div align="center">
 
@@ -201,24 +201,24 @@ const deep = {
 | 🗳️ | **Jan-Mat Bharat** — Built a biometric-secured voting platform with Face Recognition AI |
 | ✈️ | **TravelGo** — Full travel management web app (Diploma 6th Semester) |
 | 🏨 | **Rudra Resort** — Hotel management system (Diploma 4th Semester) |
-| 🌐 | **Open Source Contributor** — Actively building & sharing PHP projects on GitHub |
-| 🤝 | **People Skills** — Strong communicator, open to HR & Business Development roles |
+| 🌐 | **Open Source Contributor** — Actively building &amp; sharing PHP projects on GitHub |
+| 🤝 | **People Skills** — Strong communicator, open to HR &amp; Business Development roles |
 
 </div>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                 HOBBIES & INTERESTS                       -->
+<!--                 HOBBIES &amp; INTERESTS                       -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## 🎯 Hobbies & Interests
+## 🎯 Hobbies &amp; Interests
 
 <div align="center">
 
 | 🎵 Music | 🏃 Early Morning Jogging | 🏏 Cricket |
 |:---:|:---:|:---:|
-| Vibe to good beats while coding | Start every day with energy & focus | Team sport that taught me strategy & teamwork |
+| Vibe to good beats while coding | Start every day with energy &amp; focus | Team sport that taught me strategy &amp; teamwork |
 
 </div>
 
@@ -231,10 +231,10 @@ const deep = {
 ## 💡 What I'm Currently Up To
 
 - 🎓 Completing **4th Year B.Tech Computer Engineering (D2D)** at **RK University, Rajkot**
-- 🔐 Upgrading **Jan-Mat Bharat** with stronger security & mobile-first design
-- 🤝 Actively seeking **HR & Business Development** opportunities
-- 📖 Improving skills in **secure PHP development & project management**
-- 🏏 Representing my team in **cricket** & staying fit with **morning jogs**
+- 🔐 Upgrading **Jan-Mat Bharat** with stronger security &amp; mobile-first design
+- 🤝 Actively seeking **HR &amp; Business Development** opportunities
+- 📖 Improving skills in **secure PHP development &amp; project management**
+- 🏏 Representing my team in **cricket** &amp; staying fit with **morning jogs**
 - ☕ Fun fact: I debug code with morning chai and cricket strategies in mind!
 
 ---
@@ -271,8 +271,6 @@ const deep = {
   <img alt="github-snake" src="https://raw.githubusercontent.com/kundaliyadeep2005-cloud/kundaliyadeep2005-cloud/output/github-contribution-grid-snake.svg" />
 </picture>
 
-> ⚠️ **To activate the snake:** Go to your `kundaliyadeep2005-cloud` repo → **Actions** tab → Run the `Generate Snake` workflow once. See setup guide below. ⬇️
-
 </div>
 
 ---
@@ -289,7 +287,7 @@ const deep = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:138808,40:3CB371,60:FFFFFF,80:FF8C00,100:FF9933&amp;height=140&amp;section=footer&amp;animation=fadeIn"/>
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=kundaliyadeep2005-cloud&color=FF9933&style=flat-square)
+![Visitor Badge](https://komarev.com/ghpvc/?username=kundaliyadeep2005-cloud&amp;color=FF9933&amp;style=flat-square)
 &nbsp;
 ⭐ **If my work helps you, give it a star!** ⭐
 
