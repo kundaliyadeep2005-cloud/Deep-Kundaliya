@@ -153,11 +153,6 @@ const deep = {
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kundaliyadeep2005-cloud&amp;bg_color=fffbe7&amp;color=FF9933&amp;line=138808&amp;point=FF6600&amp;area=true&amp;hide_border=false&amp;border_color=FF9933&amp;radius=12&amp;title_color=FF9933" />
-
-</div>
 
 <div align="center">
 
