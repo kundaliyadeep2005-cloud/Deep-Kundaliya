@@ -41,7 +41,7 @@ const deep = {
   location    : "Rajkot, Gujarat, India 🇮🇳",
   university  : "RK University (RKU)",
   degree      : "B.Tech Computer Engineering (D2D)",
-  year        : "4th Year — 2nd Semester",
+  year        : "2nd Year — 4th Semester",
   passion     : ["Web Development", "People & HR", "Building Cool Projects"],
   achievement : "🏆 Khel Mahakumbh — Tug of War (3rd Rank)",
   hobbies     : ["🎵 Music", "🏃 Early Morning Jogging", "🏏 Cricket"],
