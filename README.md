@@ -265,7 +265,7 @@ const deep = {
 
 <div align="center">
 
-<img alt="github-snake" src="https://raw.githubusercontent.com/kundaliyadeep2005-cloud/kundaliyadeep2005-cloud/output/github-contribution-grid-snake.svg" />
+<img alt="github-snake" src="https://raw.githubusercontent.com/kundaliyadeep2005-cloud/Deep-Kundaliya/output/github-contribution-grid-snake.svg" />
 
 </div>
 
