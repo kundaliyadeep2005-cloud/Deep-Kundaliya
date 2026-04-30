@@ -2,8 +2,7 @@
 <!--                     HEADER BANNER                         -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF9933,25:FF7700,50:FFFFFF,75:138808,100:0A4F1E&height=260&section=header&text=Deep%20Kundaliya&fontSize=70&fontColor=1a1a1a&fontAlignY=42&desc=Web%20Developer%20%7C%20B.Tech%20CE%20%40%20RKU%20%7C%20Aspiring%20HR%20%26%20BDE%20Professional&descSize=18&descAlignY=65&descColor=333333&animation=fadeIn)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF9933,100:138808&height=250&section=header&text=Deep%20Kundaliya&fontSize=60)
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                   TYPING ANIMATION                        -->
 <!-- ═══════════════════════════════════════════════════════════ -->
