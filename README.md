@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9933,25:FF7700,50:FFFFFF,75:138808,100:0A4F1E&height=260&section=header&text=Deep%20Kundaliya&fontSize=70&fontColor=1a1a1a&fontAlignY=42&desc=💻%20Web%20Developer%20%7C%20🎓%20B.Tech%20CE%20@%20RKU%20%7C%20🤝%20Aspiring%20HR%20%26%20BDE%20Pro&descSize=18&descAlignY=65&descColor=333333&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9933,25:FF7700,50:FFFFFF,75:138808,100:0A4F1E&height=260&section=header&text=Deep%20Kundaliya&fontSize=70&fontColor=1a1a1a&fontAlignY=42&desc=Web%20Developer%20%7C%20B.Tech%20CE%20%40%20RKU%20%7C%20Aspiring%20HR%20%26%20BDE%20Professional&descSize=18&descAlignY=65&descColor=333333&animation=fadeIn" />
 
 </div>
 
@@ -15,12 +15,12 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF9933&center=true&vCenter=true&width=700&lines=👋+Hey+There!+I'm+Deep+Kundaliya;🎓+4th+Year+CE+Student+%40+RK+University;💻+PHP+%26+Full-Stack+Web+Developer;🗳️+Built+Jan-Mat+Bharat+Voting+Platform;🏆+Khel+Mahakumbh+Tug+of+War+Champion;🇮🇳+Proudly+from+Rajkot%2C+Gujarat%2C+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF9933&center=true&vCenter=true&width=700&lines=Hey+There!+I'm+Deep+Kundaliya+%F0%9F%91%8B;4th+Year+CE+Student+%40+RK+University+%F0%9F%8E%93;PHP+%26+Full-Stack+Web+Developer+%F0%9F%92%BB;Built+Jan-Mat+Bharat+Voting+Platform+%F0%9F%97%B3%EF%B8%8F;Khel+Mahakumbh+Tug+of+War+Champion+%F0%9F%8F%86;Proudly+from+Rajkot%2C+Gujarat%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kundaliyadeep2005-cloud&color=FF9933&style=for-the-badge&label=👁️+Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=kundaliyadeep2005-cloud&color=FF9933&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/kundaliyadeep2005-cloud?label=Followers&style=for-the-badge&color=138808&logo=github)](https://github.com/kundaliyadeep2005-cloud)
 
 </div>
@@ -41,7 +41,7 @@ const deep = {
   location    : "Rajkot, Gujarat, India 🇮🇳",
   university  : "RK University (RKU)",
   degree      : "B.Tech Computer Engineering (D2D)",
-  year        : "2nd Year — 4th Semester",
+  year        : "4th Year — 2nd Semester",
   passion     : ["Web Development", "People & HR", "Building Cool Projects"],
   achievement : "🏆 Khel Mahakumbh — Tug of War (3rd Rank)",
   hobbies     : ["🎵 Music", "🏃 Early Morning Jogging", "🏏 Cricket"],
@@ -179,8 +179,8 @@ const deep = {
 |:---:|:---|:---|
 | 2025 – 2028 | **RK University, Rajkot** | B.Tech Computer Engineering (D2D) — 4th Year, 2nd Semester |
 | 2022 – 2025 | **Diploma in Computer Engineering** | 6th Sem — TravelGo 🌐 &nbsp;•&nbsp; 4th Sem — Rudra Resort 🏨 |
-| 2019 - 2022 | **SGIS Morbi Gurukul** | Secondary Education — Std 8th to 10th |
-| 2012 - 2019 | **TCDAVPS Mithapur** | Primary Education — Std 1st to 7th |
+| – | **SGIS Morbi Gurukul** | Secondary Education — Std 8th to 10th |
+| – | **TCDAVPS Mithapur** | Primary Education — Std 1st to 7th |
 
 </div>
 
@@ -270,6 +270,8 @@ const deep = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kundaliyadeep2005-cloud/kundaliyadeep2005-cloud/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/kundaliyadeep2005-cloud/kundaliyadeep2005-cloud/output/github-contribution-grid-snake.svg" />
 </picture>
+
+> ⚠️ **To activate the snake:** Go to your `kundaliyadeep2005-cloud` repo → **Actions** tab → Run the `Generate Snake` workflow once. See setup guide below. ⬇️
 
 </div>
 
