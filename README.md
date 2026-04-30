@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9933,100:138808&height=250&section=header&text=Deep%20Kundaliya&fontSize=60&desc=Aspiring%20HR%20%26%20Business%20Development%20Professional&descSize=20&descAlignY=65&descColor=ffffff"/>
-</p>
+</p>  
 
 <br><!-- ═══════════════════════════════════════════════════════════ -->
 <!--                   TYPING ANIMATION                        -->
