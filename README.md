@@ -48,7 +48,7 @@ const deep = {
   goal        : "Bridge the world of Technology & People",
   open_to     : ["HR Roles", "BDE Opportunities", "Web Dev Projects"],
   funFact     : "I tackle both coding bugs & cricket pitches equally well! 😄",
-  motto       : "Work hard in silence, let success make the noise 🔥"
+  motto       : "Technology is my toolkit, people are my passion. 🇮🇳"
 };
 ```
 
@@ -143,8 +143,6 @@ const deep = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kundaliyadeep2005-cloud&show_icons=true&theme=solarized-light&include_all_commits=true&count_private=true&title_color=FF9933&icon_color=138808&text_color=222222&border_color=FF9933&border_radius=15" />
-&nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundaliyadeep2005-cloud&layout=compact&theme=solarized-light&title_color=FF9933&border_color=FF9933&text_color=222222&border_radius=15" />
 
 </div>
@@ -179,9 +177,10 @@ const deep = {
 
 | 📅 Period | 🏫 Institution | 📚 Qualification |
 |:---:|:---|:---|
-| 2023 – Present | **RK University, Rajkot** | B.Tech Computer Engineering (D2D) — 4th Year |
-| 2021 – 2023 | **Diploma in Computer Engineering** | 6th Semester — TravelGo & Web Projects |
-| 2019 – 2021 | **Secondary Education** | Gujarat State Board |
+| 2025 – 2028 | **RK University, Rajkot** | B.Tech Computer Engineering (D2D) — 4th Year, 2nd Semester |
+| 2022 – 2025 | **Diploma in Computer Engineering** | 6th Sem — TravelGo 🌐 &nbsp;•&nbsp; 4th Sem — Rudra Resort 🏨 |
+| – | **SGIS Morbi Gurukul** | Secondary Education — Std 8th to 10th |
+| – | **TCDAVPS Mithapur** | Primary Education — Std 1st to 7th |
 
 </div>
 
@@ -198,6 +197,7 @@ const deep = {
 | 🏷️ | Achievement |
 |:---:|:---|
 | 🏆 | **Khel Mahakumbh** — Tug of War, Team secured **3rd Rank** 🥉 |
+| 🎯 | **RKU Sports Galore** — Carrom **Coordinator** 🎱 |
 | 🗳️ | **Jan-Mat Bharat** — Built a biometric-secured voting platform with Face Recognition AI |
 | ✈️ | **TravelGo** — Full travel management web app (Diploma 6th Semester) |
 | 🏨 | **Rudra Resort** — Hotel management system (Diploma 4th Semester) |
@@ -249,7 +249,7 @@ const deep = {
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
 
-> *"Work hard in silence, let success make the noise."* 🔥
+> *"Technology is my toolkit, people are my passion — and I bring both to everything I do."* 🇮🇳
 >
 > — **Deep Kundaliya**
 
