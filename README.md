@@ -2,8 +2,13 @@
 <!--                     HEADER BANNER                         -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF9933,100:138808&height=250&section=header&text=Deep%20Kundaliya&fontSize=60)
-<!-- ═══════════════════════════════════════════════════════════ -->
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9933,100:138808&height=250&section=header&text=Deep%20Kundaliya&fontSize=60" width="100%"/>
+</p>
+
+<br><!-- ═══════════════════════════════════════════════════════════ -->
 <!--                   TYPING ANIMATION                        -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
