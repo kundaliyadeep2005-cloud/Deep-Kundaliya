@@ -2,7 +2,9 @@
 <!--                     HEADER BANNER                         -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FF9933,25:FF7700,50:FFFFFF,75:138808,100:0A4F1E&amp;height=260&amp;section=header&amp;text=Deep%20Kundaliya&amp;fontSize=70&amp;fontColor=1a1a1a&amp;fontAlignY=42&amp;desc=Web%20Developer%20%7C%20B.Tech%20CE%20%40%20RKU%20%7C%20Aspiring%20HR%20%26%20BDE%20Professional&amp;descSize=18&amp;descAlignY=65&amp;descColor=333333&amp;animation=fadeIn" /> </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FF9933,25:FF7700,50:FFFFFF,75:138808,100:0A4F1E&amp;height=260&amp;section=header&amp;text=Deep%20Kundaliya&amp;fontSize=70&amp;fontColor=1a1a1a&amp;fontAlignY=42&amp;desc=Web%20Developer%20%7C%20B.Tech%20CE%20%40%20RKU%20%7C%20Aspiring%20HR%20%26%20BDE%20Professional&amp;descSize=18&amp;descAlignY=65&amp;descColor=333333&amp;animation=fadeIn" />
+</div>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                   TYPING ANIMATION                        -->
